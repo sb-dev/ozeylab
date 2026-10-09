@@ -71,6 +71,6 @@
   "templates/project/wiki/index.md": "922ad0280a2f02f4cbeaebbfb1aaa5c9451f0aaf231d2b9ef7dd25114f5ee8c4",
   "templates/project/wiki/ontology.md": "81d662c6694d4294ffa5d216de81e499d37862535cca352d332b3fae22a205d7",
   "templates/review.md": "148aa8ec44c0d4e91eead895fe1bcf50572c555dbb04cffb0ed2608dc3d66467",
-  "tests/automation.test.ts": "9fa34baa37062eb9859a7fedc43c15e46b39561feb3a6f3008ed6060fd4816f6",
+  "tests/automation.test.ts": "390793b900497c284cd12b907cd847b23940a37ff645c69ff94fbae24ec2b0c9",
   "tests/core.test.ts": "300e6d961b61e233ea016484d9511d612be9e63abe1362aaa826ab96e91df68c"
 }
