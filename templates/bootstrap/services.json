@@ -1,0 +1,9 @@
+{
+  "id": "services",
+  "title": "Delivered services",
+  "requiredContents": "Offer; intake; quotation; delivery procedure; representative sample; quality criteria",
+  "acceptance": "Walk a labelled sample through intake, costing, delivery and review.",
+  "files": {
+    "operations/service.md": "# Delivered services\n\nStatus: planned.\n\nDefine scope, intake questions, quotation inputs, delivery steps, exceptions and quality checks.\n"
+  }
+}

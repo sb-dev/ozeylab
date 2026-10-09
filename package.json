@@ -1,0 +1,13 @@
+{
+  "name": "ozeylab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": {
+    "test": "node --test tests/*.test.ts",
+    "validate": "node scripts/cli.ts validate",
+    "index": "node scripts/cli.ts index",
+    "check": "npm test && npm run validate && node scripts/cli.ts index --check"
+  }
+}

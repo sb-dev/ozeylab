@@ -1,0 +1,43 @@
+{
+  "option": "domain",
+  "assessment": "synthetic-a001",
+  "currency": "GBP",
+  "results": [
+    {
+      "scenario": "central",
+      "horizonDays": 90,
+      "cashAfterCosts": 1800,
+      "cashBeforeOwnerPay": 1800,
+      "peakFunding": 0,
+      "firstCashDay": 0,
+      "paybackDay": null,
+      "ownerHours": 2,
+      "ownerResult": 1700,
+      "conditional": true
+    },
+    {
+      "scenario": "central",
+      "horizonDays": 365,
+      "cashAfterCosts": 1800,
+      "cashBeforeOwnerPay": 1800,
+      "peakFunding": 0,
+      "firstCashDay": 0,
+      "paybackDay": null,
+      "ownerHours": 2,
+      "ownerResult": 1700,
+      "conditional": true
+    },
+    {
+      "scenario": "central",
+      "horizonDays": 1095,
+      "cashAfterCosts": 1800,
+      "cashBeforeOwnerPay": 1800,
+      "peakFunding": 0,
+      "firstCashDay": 0,
+      "paybackDay": null,
+      "ownerHours": 2,
+      "ownerResult": 1700,
+      "conditional": true
+    }
+  ]
+}

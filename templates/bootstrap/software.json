@@ -1,0 +1,9 @@
+{
+  "id": "software",
+  "title": "Software and tools",
+  "requiredContents": "Product and development contracts; code/configuration foundation; setup; integration boundaries; checks",
+  "acceptance": "Run documented setup and the core behaviour claimed to exist.",
+  "files": {
+    "docs/development-spec.md": "# Software and tools\n\nStatus: planned.\n\nDefine behaviour, boundaries, data, chosen foundation, setup and checks. Implement the agreed starting behaviour.\n"
+  }
+}

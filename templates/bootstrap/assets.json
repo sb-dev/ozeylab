@@ -1,0 +1,9 @@
+{
+  "id": "assets",
+  "title": "Assets and rights",
+  "requiredContents": "Asset inventory; editable assets; positioning; listing; rights; transfer instructions",
+  "acceptance": "Locate, preview and export every promised asset. Rehearse a transfer.",
+  "files": {
+    "assets/offer.md": "# Assets and rights\n\nStatus: planned.\n\nSpecify the exact transferable package, rights, dependencies and support.\n"
+  }
+}

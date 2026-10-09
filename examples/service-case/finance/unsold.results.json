@@ -1,0 +1,43 @@
+{
+  "option": "unsold",
+  "assessment": "synthetic-a001",
+  "currency": "GBP",
+  "results": [
+    {
+      "scenario": "no-sale",
+      "horizonDays": 90,
+      "cashAfterCosts": -1630,
+      "cashBeforeOwnerPay": -1630,
+      "peakFunding": 1630,
+      "firstCashDay": null,
+      "paybackDay": null,
+      "ownerHours": 80,
+      "ownerResult": -5630,
+      "conditional": false
+    },
+    {
+      "scenario": "no-sale",
+      "horizonDays": 365,
+      "cashAfterCosts": -1720,
+      "cashBeforeOwnerPay": -1720,
+      "peakFunding": 1720,
+      "firstCashDay": null,
+      "paybackDay": null,
+      "ownerHours": 80,
+      "ownerResult": -5720,
+      "conditional": false
+    },
+    {
+      "scenario": "no-sale",
+      "horizonDays": 1095,
+      "cashAfterCosts": -1960,
+      "cashBeforeOwnerPay": -1960,
+      "peakFunding": 1960,
+      "firstCashDay": null,
+      "paybackDay": null,
+      "ownerHours": 80,
+      "ownerResult": -5960,
+      "conditional": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "information",
+  "title": "Information and access",
+  "requiredContents": "Editorial/research/teaching method; formats; source and rights records; sample; publishing process",
+  "acceptance": "Produce one representative item and check the export or publication path.",
+  "files": {
+    "production/editorial.md": "# Information and access\n\nStatus: planned.\n\nDefine audience, format, research, source rights, quality and publication steps.\n"
+  }
+}

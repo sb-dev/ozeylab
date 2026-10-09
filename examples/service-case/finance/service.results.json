@@ -1,0 +1,43 @@
+{
+  "option": "service",
+  "assessment": "synthetic-a001",
+  "currency": "GBP",
+  "results": [
+    {
+      "scenario": "central",
+      "horizonDays": 90,
+      "cashAfterCosts": -1500,
+      "cashBeforeOwnerPay": -1500,
+      "peakFunding": 1500,
+      "firstCashDay": null,
+      "paybackDay": null,
+      "ownerHours": 69,
+      "ownerResult": -4950,
+      "conditional": false
+    },
+    {
+      "scenario": "central",
+      "horizonDays": 365,
+      "cashAfterCosts": 9900,
+      "cashBeforeOwnerPay": 9900,
+      "peakFunding": 1900,
+      "firstCashDay": 120,
+      "paybackDay": 180,
+      "ownerHours": 216,
+      "ownerResult": -900,
+      "conditional": false
+    },
+    {
+      "scenario": "central",
+      "horizonDays": 1095,
+      "cashAfterCosts": 70800,
+      "cashBeforeOwnerPay": 70800,
+      "peakFunding": 1900,
+      "firstCashDay": 120,
+      "paybackDay": 180,
+      "ownerHours": 864,
+      "ownerResult": 27600,
+      "conditional": false
+    }
+  ]
+}

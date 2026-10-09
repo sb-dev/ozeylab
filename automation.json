@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "runner": { "executable": null, "args": [], "model": null, "effort": null },
+  "maxProjectsPerRun": 3,
+  "maxMinutesPerProject": 10
+}

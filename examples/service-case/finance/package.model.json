@@ -1,0 +1,91 @@
+{
+  "option": "package",
+  "assessment": "synthetic-a001",
+  "currency": "GBP",
+  "decisionDate": "2026-10-08",
+  "ownership": "wholly-owned",
+  "hourlyValue": 50,
+  "horizons": [
+    90,
+    365,
+    1095
+  ],
+  "scenarios": [
+    {
+      "id": "central",
+      "conditional": true,
+      "events": [
+        {
+          "day": 0,
+          "order": 0,
+          "kind": "cost",
+          "amount": 1600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 30,
+          "order": 0,
+          "kind": "cost",
+          "amount": 10,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 60,
+          "order": 0,
+          "kind": "cost",
+          "amount": 10,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 90,
+          "order": 0,
+          "kind": "cost",
+          "amount": 10,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 120,
+          "order": 0,
+          "kind": "cost",
+          "amount": 10,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 150,
+          "order": 0,
+          "kind": "cost",
+          "amount": 10,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 180,
+          "order": 0,
+          "kind": "cost",
+          "amount": 10,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 180,
+          "order": 1,
+          "kind": "sale",
+          "amount": 12000,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 180,
+          "order": 2,
+          "kind": "cost",
+          "amount": 1200,
+          "basis": "Invented workflow illustration"
+        }
+      ],
+      "hours": [
+        {
+          "day": 0,
+          "hours": 80,
+          "basis": "Invented workflow illustration"
+        }
+      ]
+    }
+  ]
+}

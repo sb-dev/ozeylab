@@ -1,0 +1,9 @@
+{
+  "id": "goods",
+  "title": "Goods and fulfilment",
+  "requiredContents": "Product specification; catalogue; unit cost; supplier requirements; orders; quality checks",
+  "acceptance": "Reconcile a sample order, stock, supplier dependencies, cost and exceptions.",
+  "files": {
+    "operations/fulfilment.md": "# Goods and fulfilment\n\nStatus: planned.\n\nDefine product, suppliers, landed cost, stock, order, shipping, returns and quality checks.\n"
+  }
+}

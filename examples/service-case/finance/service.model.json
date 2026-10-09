@@ -1,0 +1,1034 @@
+{
+  "option": "service",
+  "assessment": "synthetic-a001",
+  "currency": "GBP",
+  "decisionDate": "2026-10-08",
+  "ownership": "wholly-owned",
+  "hourlyValue": 50,
+  "horizons": [
+    90,
+    365,
+    1095
+  ],
+  "scenarios": [
+    {
+      "id": "central",
+      "conditional": false,
+      "events": [
+        {
+          "day": 0,
+          "order": 0,
+          "kind": "cost",
+          "amount": 1200,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 30,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 30,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 0,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 30,
+          "order": 3,
+          "kind": "cost",
+          "amount": 0,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 60,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 60,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 0,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 60,
+          "order": 3,
+          "kind": "cost",
+          "amount": 0,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 90,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 90,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 0,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 90,
+          "order": 3,
+          "kind": "cost",
+          "amount": 0,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 120,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 120,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 120,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 1200,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 120,
+          "order": 3,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 150,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 150,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 1200,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 150,
+          "order": 3,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 180,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 180,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 1200,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 180,
+          "order": 3,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 210,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 210,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 210,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 2400,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 210,
+          "order": 3,
+          "kind": "cost",
+          "amount": 600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 240,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 240,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 2400,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 240,
+          "order": 3,
+          "kind": "cost",
+          "amount": 600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 270,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 270,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 270,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 2400,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 270,
+          "order": 3,
+          "kind": "cost",
+          "amount": 600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 300,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 300,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 2400,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 300,
+          "order": 3,
+          "kind": "cost",
+          "amount": 600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 330,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 330,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 2400,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 330,
+          "order": 3,
+          "kind": "cost",
+          "amount": 600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 360,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 360,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 360,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 2400,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 360,
+          "order": 3,
+          "kind": "cost",
+          "amount": 600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 390,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 390,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 390,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 390,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 420,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 420,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 420,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 450,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 450,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 450,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 450,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 480,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 480,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 480,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 510,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 510,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 510,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 540,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 540,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 540,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 570,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 570,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 570,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 600,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 600,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 600,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 630,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 630,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 630,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 630,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 660,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 660,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 660,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 690,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 690,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 690,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 720,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 720,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 720,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 750,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 750,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 750,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 780,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 780,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 780,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 810,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 810,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 810,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 810,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 840,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 840,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 840,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 870,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 870,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 870,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 900,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 900,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 900,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 930,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 930,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 930,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 960,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 960,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 960,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 990,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 990,
+          "order": 1,
+          "kind": "cost",
+          "amount": 300,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 990,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 990,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1020,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1020,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1020,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1050,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1050,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1050,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1080,
+          "order": 0,
+          "kind": "cost",
+          "amount": 100,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1080,
+          "order": 2,
+          "kind": "receipt",
+          "amount": 3600,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1080,
+          "order": 3,
+          "kind": "cost",
+          "amount": 900,
+          "basis": "Invented workflow illustration"
+        }
+      ],
+      "hours": [
+        {
+          "day": 0,
+          "hours": 60,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 30,
+          "hours": 3,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 60,
+          "hours": 3,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 90,
+          "hours": 3,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 120,
+          "hours": 11,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 150,
+          "hours": 11,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 180,
+          "hours": 11,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 210,
+          "hours": 19,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 240,
+          "hours": 19,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 270,
+          "hours": 19,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 300,
+          "hours": 19,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 330,
+          "hours": 19,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 360,
+          "hours": 19,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 390,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 420,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 450,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 480,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 510,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 540,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 570,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 600,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 630,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 660,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 690,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 720,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 750,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 780,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 810,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 840,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 870,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 900,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 930,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 960,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 990,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1020,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1050,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        },
+        {
+          "day": 1080,
+          "hours": 27,
+          "basis": "Invented workflow illustration"
+        }
+      ]
+    }
+  ]
+}

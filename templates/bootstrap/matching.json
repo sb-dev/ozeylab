@@ -1,0 +1,9 @@
+{
+  "id": "matching",
+  "title": "Matching and transactions",
+  "requiredContents": "Intake; qualification; matching; fee rules; handover; outcome and dispute tracking",
+  "acceptance": "Walk one labelled referral or transaction through matching, fees and handover.",
+  "files": {
+    "operations/matching.md": "# Matching and transactions\n\nStatus: planned.\n\nDefine both sides, payer, qualification, matching rules, fees, rejections and dispute steps.\n"
+  }
+}

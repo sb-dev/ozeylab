@@ -1,0 +1,75 @@
+{
+  "option": "baseline",
+  "assessment": "a001",
+  "currency": "GBP",
+  "decisionDate": "2026-10-08",
+  "ownership": "wholly-owned",
+  "hourlyValue": null,
+  "horizons": [
+    90,
+    365,
+    1095
+  ],
+  "scenarios": [
+    {
+      "id": "downside",
+      "conditional": false,
+      "events": [
+        {
+          "day": 0,
+          "order": 0,
+          "kind": "cost",
+          "amount": null,
+          "basis": "Unknown setup cost; research required"
+        }
+      ],
+      "hours": [
+        {
+          "day": 0,
+          "hours": null,
+          "basis": "Unknown owner effort"
+        }
+      ]
+    },
+    {
+      "id": "central",
+      "conditional": false,
+      "events": [
+        {
+          "day": 0,
+          "order": 0,
+          "kind": "cost",
+          "amount": null,
+          "basis": "Unknown setup cost; research required"
+        }
+      ],
+      "hours": [
+        {
+          "day": 0,
+          "hours": null,
+          "basis": "Unknown owner effort"
+        }
+      ]
+    },
+    {
+      "id": "upside",
+      "conditional": false,
+      "events": [
+        {
+          "day": 0,
+          "order": 0,
+          "kind": "cost",
+          "amount": null,
+          "basis": "Unknown setup cost; research required"
+        }
+      ],
+      "hours": [
+        {
+          "day": 0,
+          "hours": null,
+          "basis": "Unknown owner effort"
+        }
+      ]
+    }
+  ]
+}
